@@ -10,4 +10,4 @@ twitter_username: @novammelesi
 github_username:  fikstoday
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme:minima
+theme: minima
